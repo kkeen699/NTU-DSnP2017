@@ -7,13 +7,13 @@ HW1 ― C++ Review
 
 HW2 ― Command Line Reader 
 
-HW3 ― Complete command line package and a simple db application
+HW3 ― Complete Command Line Package and a Simple Datebase Application
 
-HW4 ― Memory management 
+HW4 ― Memory Management 
 
 HW5 ― Various ADTs 
 
-HW6 ― Graph and circuit 
+HW6 ― Graph and Circuit 
 
 HW7 ― Heap and Hash 
 

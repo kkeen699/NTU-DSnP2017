@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "new": "cpp",
-        "array": "cpp",
-        "initializer_list": "cpp",
-        "utility": "cpp"
-    }
-}
